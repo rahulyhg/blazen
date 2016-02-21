@@ -1,0 +1,11 @@
+{
+  "name": "blazen",
+  "version": "0.0.1",
+  "description": "Blazen Node Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "blazen.js"
+  },
+  "author": "chintan@wohlig.com",
+  "license": "ISC"
+}
